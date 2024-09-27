@@ -33,7 +33,9 @@ As a user, I want to input multiple job postings (or links to them) so that the 
 
 6. **Dynamic Project Recommendations**:
    - The application will also recommend **projects at different skill levels**, allowing users to gain hands-on experience in areas where they need improvement. This helps users grow through real-world tasks rather than just theory.
-TechStack
+
+     
+**TechStack**
 Frontend - React(or if someone is good at another frontend framework thats chill too)
 Backend - Django(to handle APIs, job posting processing, and LLM calls)
 Web Scraping - BeautifulSoup(extract job descriptions out of provided links)
