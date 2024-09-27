@@ -1,0 +1,4 @@
+Coursera API Information
+Key: 0Z6xJ7v2LbyE6vA7Ah6Av3Z2uTlMDqo9sEk3ax0leRhlvhmH
+Secret: IQ5Ud1J85fNcevGjeeWmHzvfqO7EZwjqXWAyXPmHOIW3XJep98wdSj6u3mFEv81C
+To create access token, enter "grant_type=client_credentials" at Request Body at https://dev.coursera.com/docs/oauth-credentials/1/routes/oauth2/client_credentials/token/post
